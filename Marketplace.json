@@ -6,14 +6,16 @@
       "Rank": 0,
       "Price": 15,
       "Tradeable": true,
-      "Marketplace": true
+      "Marketplace": true,
+      "ID": "Cheese7"
     },
     {
       "GunSkin": "BumbleBee",
       "Rank": 3,
       "Price": 50,
       "Tradeable": true,
-      "Marketplace": false
+      "Marketplace": false,
+      "ID": "BumbleBee1911"
     },
     {
       "GunSkin": "American M4",
@@ -21,28 +23,39 @@
       "Price": 125,
       "Tradeable": true,
       "Marketplace": false,
-      "Note": "Custom kill sound"
+      "Note": "Custom kill sound",
+      "ID": "JulyM4"
     },
     {
       "GunSkin": "Skin Gun",
       "Rank": 4,
       "Price": 70,
       "Tradeable": true,
-      "Marketplace": false
+      "Marketplace": false,
+      "ID": "Skin57"
     },
     {
       "GunSkin": "Die Lit",
       "Rank": 5,
       "Price": 150,
       "Tradeable": true,
-      "Marketplace": false
+      "Marketplace": false,
+      "ID": "PBCM4"
     },
     {
       "GunSkin": "Horny Spas",
       "Rank": 3,
       "Price": 0,
       "Tradeable": true,
-      "Marketplace": false
-    }
+      "Marketplace": false,
+      "ID": "HornySpas"
+    },
+    {
+      "GunSkin": "Pit16",
+      "Rank": 2,
+      "Price": 30,
+      "Tradeable": true,
+      "Marketplace": false,
+      "ID": "PIT16"
       
 }
