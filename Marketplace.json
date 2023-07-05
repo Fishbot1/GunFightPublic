@@ -1,3 +1,11 @@
 {
-  "MOTD": "dwa"
+  "MOTD": "dwa",
+  "Items": [ 
+    {
+      "GunSkin": "Cheese-7",
+      "Rank": "0",
+      "Price": "15",
+      "Tradeable": true,
+      "Marketplace": true
+    }
 }
