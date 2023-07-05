@@ -3,9 +3,46 @@
   "Items": [ 
     {
       "GunSkin": "Cheese-7",
-      "Rank": "0",
-      "Price": "15",
+      "Rank": 0,
+      "Price": 15,
       "Tradeable": true,
       "Marketplace": true
+    },
+    {
+      "GunSkin": "BumbleBee",
+      "Rank": 3,
+      "Price": 50,
+      "Tradeable": true,
+      "Marketplace": false
+    },
+    {
+      "GunSkin": "American M4",
+      "Rank": 4,
+      "Price": 125,
+      "Tradeable": true,
+      "Marketplace": false,
+      "Note": "Custom kill sound"
+    },
+    {
+      "GunSkin": "Skin Gun",
+      "Rank": 4,
+      "Price": 70,
+      "Tradeable": true,
+      "Marketplace": false
+    },
+    {
+      "GunSkin": "Die Lit",
+      "Rank": 5,
+      "Price": 150,
+      "Tradeable": true,
+      "Marketplace": false
+    },
+    {
+      "GunSkin": "Horny Spas",
+      "Rank": 3,
+      "Price": 0,
+      "Tradeable": true,
+      "Marketplace": false
     }
+      
 }
